@@ -1,8 +1,23 @@
 # Personality and Behavioral Data Analysis in R
 
+## Keywords
+
+R data analysis  
+R data science project  
+Big Five personality analysis  
+psychological data analysis  
+clustering analysis  
+k-means clustering  
+personality traits analysis  
+survey data analysis  
+regression analysis in R  
+time series visualization  
+data visualization with ggplot2  
+statistical analysis in R  
+
 ## Project overview
 
-This repository contains an end-to-end data analysis project implemented in R. The workflow covers data loading and preprocessing, computation of psychological scales (Big Five), respondent clustering, analysis of a board games dataset, and time series visualization. All steps are implemented in a single reproducible script; tables and figures are written to an output directory.
+This repository contains an end-to-end R data analysis project. The workflow covers data loading and preprocessing, computation of psychological scales (Big Five), respondent clustering, analysis of a board games dataset, and time series visualization. All steps are implemented in a single reproducible script; tables and figures are written to an output directory. The project focuses on personality data analysis and Big Five personality traits; it uses clustering analysis using k-means and statistical modeling in R. Time series visualization and data visualization with ggplot2 are used throughout the pipeline.
 
 ## Dataset description
 
@@ -94,7 +109,7 @@ GitHub: [Saitama4722](https://github.com/Saitama4722)
 
 ## Обзор проекта
 
-Репозиторий содержит полноценный проект анализа данных на R. В нём реализованы загрузка и предобработка данных, расчёт психологических шкал Big Five, кластеризация респондентов, анализ датасета настольных игр и визуализация временного ряда. Все этапы выполняются одним воспроизводимым скриптом; таблицы и графики сохраняются в отдельную папку.
+Репозиторий содержит полноценный проект анализа данных на языке R. В нём реализованы загрузка и предобработка данных, расчёт психологических шкал Big Five, кластеризация респондентов, анализ датасета настольных игр и визуализация временного ряда. Все этапы выполняются одним воспроизводимым скриптом; таблицы и графики сохраняются в отдельную папку. Проект включает кластеризацию данных и анализ личностных шкал Big Five, статистический анализ и визуализацию данных, в том числе анализ временных рядов.
 
 ## Описание данных
 
@@ -179,3 +194,20 @@ r_data_analysis_exam
 ## Автор
 
 GitHub: [Saitama4722](https://github.com/Saitama4722)
+
+---
+
+## Topics
+
+R  
+data analysis  
+data science  
+clustering  
+k-means  
+big five personality  
+personality analysis  
+statistics  
+regression  
+time series  
+data visualization  
+ggplot2  
